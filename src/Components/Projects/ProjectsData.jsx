@@ -21,11 +21,11 @@ export default function ProjectsData() {
         "I developed all the pages using React.js, integrating APIs, configured the website to support multiple languages.",
     },
     {
-      href: "https://store-managment-system.vercel.app/",
+      href: "https://warehouse-management-project.vercel.app/",
       src: storeManagement,
-      title: "Store Management",
+      title: "Warehouse Management",
       description:
-        "I used React.js, Developed a comprehensive store management system for inventory, customers, vendors, sales, purchases, and invoicing.",
+        "I used React.js, Developed a comprehensive warehouse management system for inventory, customers, vendors, sales, purchases, and invoicing.",
     },
     {
       href: "https://pixel-store-beta.vercel.app/",
