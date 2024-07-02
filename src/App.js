@@ -15,9 +15,9 @@ let routers = createBrowserRouter([
       { path: "/about/", element: <About /> },
       { path: "/projects/", element: <Projects /> },
       { path: "/contact/", element: <Contact /> },
+      { path: "/resume/", element: <Resume /> },
     ],
   },
-  { path: "/resume/", element: <Resume /> },
 ]);
 function App() {
   return <RouterProvider router={routers} />;

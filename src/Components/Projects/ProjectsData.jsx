@@ -7,6 +7,7 @@ import iwan from "../../Images/iwan.webp";
 import dashboard from "../../Images/dashboard.webp";
 import storeManagement from "../../Images/store management.webp";
 import commerce from "../../Images/ecommercee.webp";
+import zoom from "../../Images/zoomclone.webp";
 import ai from "../../Images/ai.jpg";
 import aiSaas from "../../Images/Ai platform.jpg";
 import brainwave from "../../Images/Brain.webp";
@@ -33,6 +34,13 @@ export default function ProjectsData() {
       title: "E-commerce",
       description:
         "I used React.js, integrated user authentication, built a detailed product catalog, optimized the shopping cart, and integrated Stripe payment.",
+    },
+    {
+      href: "https://zoompixel.vercel.app/",
+      src: zoom,
+      title: "Zoom clone",
+      description:
+        "I used NextJs, Develop a professional video conferencing app.",
     },
     {
       href: "https://pixel-imaginify.vercel.app/",
