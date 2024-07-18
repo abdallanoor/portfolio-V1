@@ -11,6 +11,7 @@ import zoom from "../../Images/zoomclone.webp";
 import ai from "../../Images/ai.jpg";
 import aiSaas from "../../Images/Ai platform.jpg";
 import brainwave from "../../Images/Brain.webp";
+import batient from "../../Images/batient.webp";
 
 export default function ProjectsData() {
   const projects = [
@@ -36,18 +37,25 @@ export default function ProjectsData() {
         "I used React.js, integrated user authentication, built a detailed product catalog, optimized the shopping cart, and integrated Stripe payment.",
     },
     {
+      href: "https://healthcare-management-project.vercel.app/",
+      src: batient,
+      title: "Healthcare Management",
+      description:
+        "I used Next.js, Developed a healthcare platform that streamlines patient registration, appointment scheduling, and medical records, and implement complex forms and SMS notifications.",
+    },
+    {
       href: "https://zoompixel.vercel.app/",
       src: zoom,
       title: "Zoom clone",
       description:
-        "I used NextJs, Develop a professional video conferencing app.",
+        "I used Next.js, Develop a professional video conferencing app.",
     },
     {
       href: "https://pixel-imaginify.vercel.app/",
       src: aiSaas,
       title: "AI SaaS Platform",
       description:
-        "I used NextJs, Build a REAL Software-as-a-Service app with AI features and a payments and credits system.",
+        "I used Next.js, Build a REAL Software-as-a-Service app with AI features and a payments and credits system.",
     },
     {
       href: "https://ai-image-generation-abdallanoor.vercel.app/",
