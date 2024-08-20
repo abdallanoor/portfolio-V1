@@ -18,7 +18,7 @@ export default function SkillsData() {
   const icons = [
     {
       src: reactIcon,
-      title: "React",
+      title: "React.js",
     },
     {
       src: jsIcon,
@@ -58,7 +58,7 @@ export default function SkillsData() {
 
     {
       src: nextIcon,
-      title: "Next",
+      title: "Next.js",
     },
   ];
   return (
