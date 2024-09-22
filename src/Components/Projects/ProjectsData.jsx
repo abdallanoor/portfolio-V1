@@ -30,7 +30,7 @@ export default function ProjectsData() {
         "I used React.js, Developed a comprehensive warehouse management system for inventory, customers, vendors, sales, purchases, and invoicing.",
     },
     {
-      href: "https://pixel-store-beta.vercel.app/",
+      href: "https://pixelstore.vercel.app/",
       src: commerce,
       title: "E-commerce",
       description:
