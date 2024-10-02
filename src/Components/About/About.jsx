@@ -70,14 +70,14 @@ export default function About() {
                   <Download size={20} />
                   <span>Download Resume</span>
                 </Link> */}
-                <Link
+                {/* <Link
                   to="https://drive.google.com/file/d/1_NXZ2mTNvwSAdPyYoyIdGcJKHYgOVsCI/view?usp=sharing"
                   target="_blank"
                   className="inline-flex  animate-shimmer items-center justify-center rounded-md border border-slate-800 bg-[linear-gradient(110deg,#000103,45%,#1e2631,55%,#000103)] bg-[length:200%_100%] p-4 text-sm text-slate-400 transition-colors  gap-2 mt-8 "
                 >
                   <Download size={20} />
                   <span>Download Resume</span>
-                </Link>
+                </Link> */}
               </div>
             </div>
             {/* <div className="w-1/2 lg:w-1/4 overflow-hidden relative duration-700 border rounded-xl group md:gap-8  hover:border-zinc-400/95 border-zinc-600 ">
